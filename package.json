@@ -1,6 +1,6 @@
 {
   "name": "webpack-systemjsimport-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "auto inject systemjs config in html",
   "main": "src/main.js",
   "scripts": {
